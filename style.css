@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto:wght@100;300;400&display=swap');
+
+*{
+    margin: 0;
+}
+
+.mae{
+    background-color: #990D35;
+    margin: 25%;
+    margin-top: 10%;
+    border: none;
+    border-radius: 10px;
+
+}
+
+.dados{
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    font: 100;
+    font-family: 'Roboto',sans-serif;
+    padding-top: 5%;
+    padding-bottom: 2%;
+}
+
+.input{
+    align-items: center;
+    padding-top: 1%;
+}
+
+#email, #senha{
+    align-items: center;
+    margin-left: 25%;
+    width: 50%;
+    margin-bottom: 2%;
+    padding: 1%;
+    border-radius: 10px;
+    border: none;
+}
+
+.button{
+    padding: 1%;
+    padding-bottom: 5%;
+}
+.button_filho{
+    align-items: center;
+    margin-left: 39.5%;
+    font: 300;
+    font-family: 'Roboto',sans-serif;
+    font: 100;
+    width: 20%;
+    border-radius: 10px;
+    border: none;
+    padding: 1%;
+    color: #D52941;
+    background-color: #FCD581;
+
+}
+  
